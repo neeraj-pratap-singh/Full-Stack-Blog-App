@@ -59,7 +59,9 @@
 }
 
 .textArea {
+  margin-top: 20px;
   width: 100%;
+  color: var(--textColor);
 }
 
 .publish{
